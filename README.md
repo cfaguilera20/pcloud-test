@@ -71,4 +71,4 @@ Fuente de datos
 - Crear un repositorio con tu código 
 - Enviarlo el link del repositorio al siguiente correo
   - Correo: dev@people-cloud.com
-  - Asunto: Test PHP | <Nombre>
+  - Asunto: Test PHP | Nombre Apellido
