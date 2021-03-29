@@ -5,6 +5,7 @@
     - [Historia de usuario](#historia-de-usuario)
     - [Criterios de comprobación](#criterios-de-comprobación)
     - [Detalle](#detalle)
+  - [¿Cómo enviar el test?](#cómo-enviar-el-test)
 
 
 ## Test
@@ -65,3 +66,9 @@ Fuente de datos
 
 - https://people-pro.com/xml-feed/indeed
 
+## ¿Cómo enviar el test?
+
+- Crear un repositorio con tu código 
+- Enviarlo el link del repositorio al siguiente correo
+  - Correo: dev@people-cloud.com asunto 
+  - Asunto: Test PHP | <Nombre>
