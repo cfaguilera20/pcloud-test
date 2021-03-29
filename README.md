@@ -5,6 +5,7 @@
     - [Historia de usuario](#historia-de-usuario)
     - [Criterios de comprobación](#criterios-de-comprobación)
     - [Detalle](#detalle)
+  - [Requerimientos técnicos](#requerimientos-técnicos)
   - [¿Cómo enviar el test?](#cómo-enviar-el-test)
 
 
@@ -65,6 +66,11 @@ Descripción de la vacante
 Fuente de datos
 
 - https://people-pro.com/xml-feed/indeed
+
+## Requerimientos técnicos
+
+- Procesar el XML en PHP y preparar la respuesta con los campos necesarios.
+- Obtener los datos preparados en PHP desde JavaScript para mostrarlos en la vista. 
 
 ## ¿Cómo enviar el test?
 
